@@ -105,7 +105,7 @@ public:
 		{
 			postorder(ptr->leftchild);
 			postorder(ptr->rightchild);
-			cout << ptr->info << " ";
+			cout << ptr->info << " ";    
 		}
 	}
 };  
