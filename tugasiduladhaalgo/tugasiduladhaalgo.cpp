@@ -11,7 +11,7 @@ public:
 	Node* rightchild;
 
 	// Constructor
-	Node(string i, Node* I, Node* r)
+	Node(string i, Node* I, Node* r) 
 	{
 		info = i;
 		leftchild = I;
