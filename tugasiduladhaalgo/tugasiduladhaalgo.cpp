@@ -98,7 +98,7 @@ public:
 		// Performs the postorder traversaal of the tree
 		if (ROOT == NULL)
 		{
-			cout << "tree is empty" << endl;
+			cout << "tree is empty" << endl;  
 			return;
 		}
 		if (ptr != NULL)
